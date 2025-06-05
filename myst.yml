@@ -14,6 +14,11 @@ project:
     - title: HOOK
       children:
         - file: HOOK/README.md
+        - file: HOOK/gallery.md
+          children: 
+            - file: HOOK/Tutorial.ipynb
+            - file: HOOK/DEDL-Hook_access.ipynb
+
     
 site:
   template: book-theme
