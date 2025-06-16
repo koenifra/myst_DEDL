@@ -1,8 +1,10 @@
-# Hook Service
+---
+title: "Hook Service"
+author: "Author: EUMETSAT"
+---
 
-<img style="float:left; width:5%" src="../img/EUMETSAT-icon.png"/> **Author:** EUMETSAT 
+<img style="float:left; width:5%" src="../img/EUMETSAT-icon.png"/>  
 <br>
-
 This folder contains materials for learning how to use Hook Service. 
 
 The Destination Earth Data Lake (DEDL) ‘Hook service’ provides ready-to-use high level serverless workflows and functions preconfigured to efficiently access and manipulate Destination Earth Data Lake (DEDL) data. A growing number of workflows and functions will provide on-demand capabilities for the diverse data analysis needs.
