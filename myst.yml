@@ -53,7 +53,7 @@ project:
             - file: STACK/ExtremeDT-DataCube-xViewer.ipynb
             - file: STACK/DEDL_StackService_Dask.ipynb
     
-    - title: Notebook Gallery
+    - title: Notebook Gallery Topics
       children:
         - title: Dask
           children:
